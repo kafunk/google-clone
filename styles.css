@@ -10,8 +10,7 @@
 }
 
 .navbar-links-container{
-  position: relative;
-  height: 30px;
+  height: 26px;
   line-height: 24px
   padding-left: 15px
   padding-right: 15px;
@@ -30,4 +29,17 @@
 
 .navbar-links a img{
   vertical-align: middle;
+}
+
+.logo-container{
+  height: 233px;
+  min-width: 980px;
+  padding-top: 89px;
+}
+
+.logo{
+  margin: auto;
+  height: 92px;
+  width: 272px;
+  padding-top: 109px;
 }
