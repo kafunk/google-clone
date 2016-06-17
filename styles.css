@@ -1,0 +1,33 @@
+.div{
+  display: block;
+}
+
+.navbar{
+  position: absolute;
+  width: 100%;
+  min-width: 980px;
+  margin-top: 10px;
+}
+
+.navbar-links-container{
+  position: relative;
+  height: 30px;
+  line-height: 24px
+  padding-left: 15px
+  padding-right: 15px;
+  float: right;
+}
+
+.navbar-links{
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.navbar-links a{
+  padding-left: 15px;
+  vertical-align: middle;
+}
+
+.navbar-links a img{
+  vertical-align: middle;
+}
