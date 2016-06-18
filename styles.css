@@ -1,3 +1,12 @@
+body{
+  font-family: Arial, sans-serif;
+}
+
+a{
+  color: #666;
+  text-decoration: none
+}
+
 .navbar{
   position: absolute;
   height: 40px;
@@ -21,6 +30,7 @@
 }
 
 .navbar-links a{
+  font-size: 13px;
   padding-left: 15px;
   vertical-align: middle;
 }
@@ -112,11 +122,10 @@
 
 .footer-link a{
   display: inline-block;
-  color: #666666;
   padding-left: 27px;
   margin: 0;
   vertical-align: middle;
-  text-decoration: none;
+  font-size: small;
 }
 
 .footer-link .pull-left{
