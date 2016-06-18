@@ -1,12 +1,14 @@
 .navbar{
   position: absolute;
+  height: 40px;
   width: 100%;
+  margin-top: 5px;
   min-width: 980px;
-  margin-top: 10px;
 }
 
 .navbar-links-container{
-  height: 26px;
+  height: 30px;
+  margin-top: 10px;
   line-height: 24px
   padding-left: 15px
   padding-right: 15px;
@@ -61,6 +63,11 @@
   height: 34px;
   border: 1px solid #ddd;
 }
+
+
+
+
+//
 
 .search-bar .input{
   -webkit-appearance: none;
