@@ -52,31 +52,46 @@
   height: 121px
 }
 
+.search-form input{
+  -webkit-appearance: none;
+}
+
 .search-bar-container{
   margin: auto;
-  height: 63px;
 }
 
 .search-bar{
   margin: auto;
-  width: 483px;
-  height: 34px;
+  width: 487px;
+  height: 40px;
   border: 1px solid #ddd;
-}
-
-
-
-
-//
-
-.search-bar .input{
-  -webkit-appearance: none;
   line-height: 32px;
-  padding: 9px;
+  padding: 6px 9px 0px 9px;
 }
 
+.search-buttons-container{
+  margin: auto;
+  line-height: 58px;
+  width: 487px;
+  padding-top: 18px;
+}
 
-
+.button{
+  margin: auto;
+  display: inline-block;
+  background-color: #f2f2f2;
+  color: #666666;
+  margin: 11px 4px;
+  border: 1px solid #f2f2f2;
+  padding: 0px 16px;
+  height: 34px;
+  min-width: 54px;
+  font-size: 13px;
+  line-height: 27px;
+  font-weight: bold;
+  text-align: center;
+  vertical-align: middle;
+}
 
 
 
