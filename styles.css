@@ -93,5 +93,36 @@
   vertical-align: middle;
 }
 
+.footer{
+  position: absolute;
+  bottom: 0;
+  height: 40px;
+  line-height: 40px;
+  border-top: 1px solid #ddd;
+  margin-top: 109px;
+  background-color: #f2f2f2;
+  width: 100%;
+  min-width: 980px;
+}
 
+.footer-link{
+  line-height: 40px;
+  margin-right: 27px;
+}
 
+.footer-link a{
+  display: inline-block;
+  color: #666666;
+  padding-left: 27px;
+  margin: 0;
+  vertical-align: middle;
+  text-decoration: none;
+}
+
+.footer-link .pull-left{
+  float: left;
+}
+
+.footer-link .pull-right{
+  float: right;
+}
